@@ -8,18 +8,17 @@ author-name:    Kenan Nur
 author-image:   author_image.jpg
 author-job:     Software Developer
 author-email:   kenannur@hotmail.com # Add your email for contant form.
-author-twitter: kenannur # Add your twitter account
-about-author:   I am a .NET developer focusing on back-end development. Always hungry to keep learning.
+about-author:   I am a .NET developer focusing on back-end development.
 
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   kenannur
 social-facebook:   
 social-github:    kenannur
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-pinterest: 
+social-instagram: kenannur
 social-youtube:
 social-vk:   
-social-linkedin:
+social-linkedin: kenannur
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
