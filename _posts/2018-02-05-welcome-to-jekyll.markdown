@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 date: 2018-02-05 15:13:18 +0200
-image: 12.jpg
+image: welcome-to-jekyll.jpg
 tags: [jekyll, docs]
 categories: jekyll
 ---
@@ -12,12 +12,16 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+<script src="https://gist.github.com/kenannur/90f976806c763c3960ba19d80a125f03.js"></script>
+
+{% highlight csharp %}
+class Program
+{
+    static void Main(string[] args)
+    {
+        //Do stuff
+    }
+}
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
