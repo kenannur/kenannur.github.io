@@ -5,7 +5,7 @@ url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. ht
 
 # Author
 author-name:    Kenan Nur
-author-image:   1.jpg
+author-image:   author_image.jpg
 author-job:     Software Developer
 author-email:   kenannur@hotmail.com # Add your email for contant form.
 author-twitter: kenannur # Add your twitter account
@@ -13,8 +13,8 @@ about-author:   I am a .NET developer focusing on back-end development. Always h
 
 # Social settings
 social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
+social-facebook:   
+social-github:    kenannur
 social-pinterest: artemsheludko
 social-instagram: artemsheludko_
 social-youtube:
